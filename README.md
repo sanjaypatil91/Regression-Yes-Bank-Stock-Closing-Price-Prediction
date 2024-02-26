@@ -3,9 +3,8 @@
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
 
+![Yes_Bank_SVG_Logo svg](https://github.com/sanjaypatil91/Regression-Yes-Bank-Stock-Closing-Price-Prediction/assets/102731353/e2ad4fc4-5634-4de5-b35c-ed048e9b8a21)
 
-
-![N|Solid](https://upload.wikimedia.org/wikipedia/commons/d/d1/Yes_Bank_Logo-01.png)
 
 <p align="center"> 
 <img src="GIF/google play.gif" alt="Animated gif" height="282px">
